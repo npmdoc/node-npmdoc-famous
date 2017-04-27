@@ -1,6 +1,6 @@
 # npmdoc-famous
 
-#### api documentation for  [famous (v0.7.1)](https://github.com/Famous/engine#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-famous.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-famous) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-famous.svg)](https://travis-ci.org/npmdoc/node-npmdoc-famous)
+#### basic api documentation for  [famous (v0.7.1)](https://github.com/Famous/engine#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-famous.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-famous) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-famous.svg)](https://travis-ci.org/npmdoc/node-npmdoc-famous)
 
 #### Famous Engine =================
 
@@ -101,7 +101,8 @@
         "test-webgl-renderables": "browserify webgl-renderables/test/*.js | npm run tape",
         "test-webgl-renderers": "browserify webgl-renderers/test/*.js | npm run tape"
     },
-    "version": "0.7.1"
+    "version": "0.7.1",
+    "bin": {}
 }
 ```
 
